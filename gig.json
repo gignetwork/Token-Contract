@@ -1,0 +1,14 @@
+{
+  "name": "GIG",
+  "symbol": "GIG",
+  "description": "Currency for covering fees within GIGESCROW.com and GIGBTC.com",
+  "image": "https://ipfs.filebase.io/ipfs/Qma1kzDsk6eW9VUMdAFxzmZhVWZWsp6h3tJtXUdzAWMpnN",
+  "extensions": {
+    "website": "https://gigxtra.com",
+    "twitter": "https://x.com/gigxtra",
+    "telegram": "https://t.me/gigxtra",
+    "facebook": "https://www.facebook.com/gigxtra",
+    "linkedin": "https://www.linkedin.com/company/gigxtra",
+    "discord": "https://discord.gg/D844HVzWdQ"
+  }
+}
